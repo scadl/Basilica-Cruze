@@ -1,0 +1,283 @@
+"D:/Works/3D Engine Apps/Basilica Cruze/BCruze_UE4/Content/MainMenu-GUI.uasset" 0
+"D:/Works/3D Engine Apps/Basilica Cruze/BCruze_UE4/Content/MenuGameMode.uasset" 1
+"D:/Works/3D Engine Apps/Basilica Cruze/BCruze_UE4/Content/Blueprints/ActiveDoorBP_CChild.uasset" 2
+"D:/Works/3D Engine Apps/Basilica Cruze/BCruze_UE4/Content/Blueprints/ActiveDoorBP_LChild.uasset" 3
+"D:/Works/3D Engine Apps/Basilica Cruze/BCruze_UE4/Content/Blueprints/ActiveDoorBP_Child1.uasset" 4
+"D:/Works/3D Engine Apps/Basilica Cruze/BCruze_UE4/Content/Blueprints/ActiveDoorBP_RChild.uasset" 5
+"D:/Works/3D Engine Apps/Basilica Cruze/BCruze_UE4/Content/Blueprints/FlyingCharacter.uasset" 6
+"D:/Works/3D Engine Apps/Basilica Cruze/BCruze_UE4/Content/Blueprints/WalkingCharacter.uasset" 7
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 8
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 9
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 10
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 11
+"../../../Engine/Content/BasicShapes/Cube.uasset" 12
+"D:/Works/3D Engine Apps/Basilica Cruze/BCruze_UE4/Content/Blueprints/ActiveDoorBP.uasset" 13
+"D:/Works/3D Engine Apps/Basilica Cruze/BCruze_UE4/Content/Blueprints/Box_Brush_Blueprint.uasset" 14
+"D:/Works/3D Engine Apps/Basilica Cruze/BCruze_UE4/Content/Blueprints/SudakCharacter.uasset" 15
+"D:/Works/3D Engine Apps/Basilica Cruze/BCruze_UE4/Content/Blueprints/SceneGameMode.uasset" 16
+"D:/Works/3D Engine Apps/Basilica Cruze/BCruze_UE4/Content/Blueprints/SudakGameMode.uasset" 17
+"D:/Works/3D Engine Apps/Basilica Cruze/BCruze_UE4/Content/Blueprints/TitleHud.uasset" 18
+"D:/Works/3D Engine Apps/Basilica Cruze/BCruze_UE4/Content/Sprites/3dsmax.uasset" 19
+"D:/Works/3D Engine Apps/Basilica Cruze/BCruze_UE4/Content/Sprites/blender_logo-2.uasset" 20
+"D:/Works/3D Engine Apps/Basilica Cruze/BCruze_UE4/Content/Sprites/Unreal-engine-4-logo-wide-sm.uasset" 21
+"D:/Works/3D Engine Apps/Basilica Cruze/BCruze_UE4/Content/Blueprints/LoadinScreen.uasset" 22
+"D:/Works/3D Engine Apps/Basilica Cruze/BCruze_UE4/Content/Blueprints/TitleSplash.uasset" 23
+"D:/Works/3D Engine Apps/Basilica Cruze/BCruze_UE4/Content/Materials/BounceCard.uasset" 24
+"D:/Works/3D Engine Apps/Basilica Cruze/BCruze_UE4/Content/Materials/Columns1.uasset" 25
+"D:/Works/3D Engine Apps/Basilica Cruze/BCruze_UE4/Content/Materials/Cruze_Bricks.uasset" 26
+"D:/Works/3D Engine Apps/Basilica Cruze/BCruze_UE4/Content/Sprites/UI-gravity_off.uasset" 27
+"D:/Works/3D Engine Apps/Basilica Cruze/BCruze_UE4/Content/Sprites/UI-gravity_on.uasset" 28
+"D:/Works/3D Engine Apps/Basilica Cruze/BCruze_UE4/Content/Textures/cruze_MainPlan.uasset" 29
+"D:/Works/3D Engine Apps/Basilica Cruze/BCruze_UE4/Content/Textures/Cruze_Sky_Day_Cloudy_Low.uasset" 30
+"D:/Works/3D Engine Apps/Basilica Cruze/BCruze_UE4/Content/Textures/Cruze_Surfacing-Cobble_Stone-Heringbone.uasset" 31
+"D:/Works/3D Engine Apps/Basilica Cruze/BCruze_UE4/Content/Textures/cruze_Surfacing-Cobble_Stone-Heringbone_NRM.uasset" 32
+"D:/Works/3D Engine Apps/Basilica Cruze/BCruze_UE4/Content/Textures/Cruze_Tile-Square-Circular-Mosaic.uasset" 33
+"D:/Works/3D Engine Apps/Basilica Cruze/BCruze_UE4/Content/Textures/masonry_.uasset" 34
+"D:/Works/3D Engine Apps/Basilica Cruze/BCruze_UE4/Content/Textures/T_Water_01_N.uasset" 35
+"D:/Works/3D Engine Apps/Basilica Cruze/BCruze_UE4/Content/Textures/T_Water_Ripple_Directional_Noise.uasset" 36
+"D:/Works/3D Engine Apps/Basilica Cruze/BCruze_UE4/Content/Textures/wave_NRM-1.uasset" 37
+"D:/Works/3D Engine Apps/Basilica Cruze/BCruze_UE4/Content/Textures/wave_NRM-2.uasset" 38
+"D:/Works/3D Engine Apps/Basilica Cruze/BCruze_UE4/Content/Textures/Window-Mod3x5_NRM.uasset" 39
+"../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uasset" 40
+"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 41
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 42
+"../../../Engine/Content/BasicShapes/Cone.uasset" 43
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 44
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 45
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 46
+"../../../Engine/Content/EditorMaterials/GizmoMaterial.uasset" 47
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 48
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 49
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 50
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 51
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 52
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 53
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 54
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 55
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 56
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 57
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 58
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 59
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 60
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 61
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 62
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 63
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 64
+"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 65
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 66
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 67
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 68
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 69
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 70
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 71
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 72
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 73
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 74
+"../../../Engine/Content/EditorResources/S_Actor.uasset" 75
+"../../../Engine/Content/EditorResources/S_Note.uasset" 76
+"../../../Engine/Content/EditorResources/S_Trigger.uasset" 77
+"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 78
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 79
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 80
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed.uasset" 81
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed_Cue.uasset" 82
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess.uasset" 83
+"../../../Engine/Content/EditorSounds/Notifications/CompileStart_Cue.uasset" 84
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess_Cue.uasset" 85
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 86
+"../../../Engine/Content/EngineDebugMaterials/HeatmapGradient.uasset" 87
+"../../../Engine/Content/EngineDebugMaterials/BoneWeightMaterial.uasset" 88
+"../../../Engine/Content/EngineDebugMaterials/ClothMaterial.uasset" 89
+"../../../Engine/Content/EngineDebugMaterials/ClothMaterial_WF.uasset" 90
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 91
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 92
+"../../../Engine/Content/EngineDebugMaterials/GeomMaterial.uasset" 93
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleTranslucent.uasset" 94
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 95
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 96
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 97
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 98
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 99
+"../../../Engine/Content/EngineFonts/Roboto.uasset" 100
+"../../../Engine/Content/EngineFonts/Faces/RobotoTiny.uasset" 101
+"../../../Engine/Content/EngineFonts/RobotoTiny.uasset" 102
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 103
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 104
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 105
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 106
+"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset" 107
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 108
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 109
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 110
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 111
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 112
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 113
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 114
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 115
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 116
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 117
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 118
+"../../../Engine/Content/EngineMaterials/EditorBrushMaterial.uasset" 119
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 120
+"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 121
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 122
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 123
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 124
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 125
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 126
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 127
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 128
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 129
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 130
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 131
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 132
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 133
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 134
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 135
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 136
+"../../../Engine/Content/EngineMeshes/Cube.uasset" 137
+"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 138
+"../../../Engine/Content/EngineMeshes/Sphere.uasset" 139
+"../../../Engine/Content/EngineResources/Black.uasset" 140
+"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 141
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 142
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 143
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 144
+"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 145
+"../../../Engine/Content/EngineSounds/Master.uasset" 146
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 147
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 148
+"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 149
+"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 150
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 151
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 152
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 153
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 154
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 155
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 156
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 157
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 158
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 159
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 160
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 161
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 162
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 163
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 164
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 165
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 166
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 167
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 168
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 169
+"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 170
+"../../../Engine/Content/Tutorial/Basics/LevelEditorAttract.uasset" 171
+"../../../Engine/Content/Tutorial/Basics/TutorialAssets/icon_tab_Levels_40x.uasset" 172
+"../../../Engine/Content/Tutorial/Basics/LevelEditorOverview.uasset" 173
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Blueprint_64x.uasset" 174
+"../../../Engine/Content/Tutorial/BlueprintTutorials/BlueprintEditorTutorial.uasset" 175
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/BlueprintInterface_64x.uasset" 176
+"../../../Engine/Content/Tutorial/BlueprintTutorials/BlueprintInterfacesEditorOverview.uasset" 177
+"../../../Engine/Content/Tutorial/BlueprintTutorials/LevelBlueprintEditorOverview.uasset" 178
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Tutorial_BP_Interface.uasset" 179
+"../../../Engine/Content/Tutorial/Code/AddingCode.uasset" 180
+"../../../Engine/Content/Tutorial/Foliage/TutorialAssets/Foliage.uasset" 181
+"../../../Engine/Content/Tutorial/Foliage/Foliage_Intro_Tutorial.uasset" 182
+"../../../Engine/Content/Tutorial/Foliage/Foliage_Settings_Tutorial.uasset" 183
+"../../../Engine/Content/Tutorial/Foliage/Foliage_Using_The_Tool_Tutorial.uasset" 184
+"../../../Engine/Content/Tutorial/Landscape/TutorialAssets/Landscape.uasset" 185
+"../../../Engine/Content/Tutorial/Landscape/LandscapeWalkThrough.uasset" 186
+"../../../Engine/Content/Tutorial/Landscape/Landscape_Manage_Mode.uasset" 187
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 188
+"../../../Engine/Content/Tutorial/Landscape/Landscape_Painting_Mode.uasset" 189
+"../../../Engine/Content/Tutorial/Landscape/Landscape_Sculpt_Mode.uasset" 190
+"../../../Engine/Content/Tutorial/Mobile/TutorialAssets/android_Icon.uasset" 191
+"../../../Engine/Content/Tutorial/Mobile/SettingUpAndroidTutorial.uasset" 192
+"../../../Engine/Content/Tutorial/SubEditors/MaterialEditorTutorial.uasset" 193
+"../../../Engine/Content/Tutorial/SubEditors/StaticMeshEditorTutorial.uasset" 194
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/TutorialMaterial.uasset" 195
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 196
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 197
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 198
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 199
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 200
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 201
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 202
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 203
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 204
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 205
+"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 206
+"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 207
+"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 208
+"../../Plugins/2D/Paper2D/Content/DummySpriteTexture.uasset" 209
+"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 210
+"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 211
+"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 212
+"../../Plugins/Runtime/Oculus/OculusVR/Content/OculusMR_RenderTarget.uasset" 213
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uasset" 214
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 215
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 216
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset" 217
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey_Lit.uasset" 218
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset" 219
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_WhiteMaterial.uasset" 220
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/PokeAHoleMaterial.uasset" 221
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_AO.uasset" 222
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Color.uasset" 223
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Normal.uasset" 224
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/GearVRControllerMaterial.uasset" 225
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/GearVrController.uasset" 226
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_albedo.uasset" 227
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_controlmap.uasset" 228
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/touchController_mat.uasset" 229
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/LeftTouchController.uasset" 230
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RiftHMD.uasset" 231
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RightTouchController.uasset" 232
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 233
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 234
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 235
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 236
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 237
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 238
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 239
+"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 240
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 241
+"D:/Works/3D Engine Apps/Basilica Cruze/BCruze_UE4/Content/BasilicaCruze_BuiltData.uasset" 242
+"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 243
+"D:/Works/3D Engine Apps/Basilica Cruze/BCruze_UE4/Content/Textures/Groundcover_Sand_Smooth-TX.uasset" 244
+"D:/Works/3D Engine Apps/Basilica Cruze/BCruze_UE4/Content/Textures/Groundcover_Sand_Smooth-TX_NRM.uasset" 245
+"D:/Works/3D Engine Apps/Basilica Cruze/BCruze_UE4/Content/Materials/Groundcover_MTL.uasset" 246
+"D:/Works/3D Engine Apps/Basilica Cruze/BCruze_UE4/Content/Materials/MISC-BounceCard.uasset" 247
+"D:/Works/3D Engine Apps/Basilica Cruze/BCruze_UE4/Content/Sprites/keyboard-key-icon.uasset" 248
+"D:/Works/3D Engine Apps/Basilica Cruze/BCruze_UE4/Content/Blueprints/PlayerOverlay.uasset" 249
+"../../../Engine/Content/BasicShapes/Plane.uasset" 250
+"D:/Works/3D Engine Apps/Basilica Cruze/BCruze_UE4/Content/Blueprints/HelpScreen.uasset" 251
+"D:/Works/3D Engine Apps/Basilica Cruze/BCruze_UE4/Content/Textures/Cruze_Marble-Square-Stacked.uasset" 252
+"D:/Works/3D Engine Apps/Basilica Cruze/BCruze_UE4/Content/Textures/cruze_Marble-Square-Stacked_NRM.uasset" 253
+"D:/Works/3D Engine Apps/Basilica Cruze/BCruze_UE4/Content/Materials/Cruze_MArble.uasset" 254
+"D:/Works/3D Engine Apps/Basilica Cruze/BCruze_UE4/Content/Modules/Columns.uasset" 255
+"D:/Works/3D Engine Apps/Basilica Cruze/BCruze_UE4/Content/Modules/Liturgic.uasset" 256
+"D:/Works/3D Engine Apps/Basilica Cruze/BCruze_UE4/Content/Textures/Cruze_Wood-Paneling.uasset" 257
+"D:/Works/3D Engine Apps/Basilica Cruze/BCruze_UE4/Content/Textures/cruze_Wood-Paneling_NRM.uasset" 258
+"D:/Works/3D Engine Apps/Basilica Cruze/BCruze_UE4/Content/Materials/Cruze_Wood_Dark.uasset" 259
+"D:/Works/3D Engine Apps/Basilica Cruze/BCruze_UE4/Content/Modules/Stropila.uasset" 260
+"D:/Works/3D Engine Apps/Basilica Cruze/BCruze_UE4/Content/Textures/Cruze_Roof-Tiles-Spanish-Red.uasset" 261
+"D:/Works/3D Engine Apps/Basilica Cruze/BCruze_UE4/Content/Textures/Cruze_Roof-Tiles-Spanish-Red_NRM.uasset" 262
+"D:/Works/3D Engine Apps/Basilica Cruze/BCruze_UE4/Content/Materials/Cruze_Roofing.uasset" 263
+"D:/Works/3D Engine Apps/Basilica Cruze/BCruze_UE4/Content/Textures/Cruze_Carpet-Berber-Pattern.uasset" 264
+"D:/Works/3D Engine Apps/Basilica Cruze/BCruze_UE4/Content/Textures/cruze_Carpet-Berber-Pattern_NRM.uasset" 265
+"D:/Works/3D Engine Apps/Basilica Cruze/BCruze_UE4/Content/Materials/Cruze_Walls.uasset" 266
+"D:/Works/3D Engine Apps/Basilica Cruze/BCruze_UE4/Content/Modules/Walls_Cube.uasset" 267
+"D:/Works/3D Engine Apps/Basilica Cruze/BCruze_UE4/Content/Textures/cruze_MainPlan2.uasset" 268
+"D:/Works/3D Engine Apps/Basilica Cruze/BCruze_UE4/Content/Materials/Cruze_Plan.uasset" 269
+"D:/Works/3D Engine Apps/Basilica Cruze/BCruze_UE4/Content/Modules/Walls_MainPlan.uasset" 270
+"D:/Works/3D Engine Apps/Basilica Cruze/BCruze_UE4/Content/Modules/Walls_Walls.uasset" 271
+"D:/Works/3D Engine Apps/Basilica Cruze/BCruze_UE4/Content/Modules/WallsSmallEntrance.uasset" 272
+"D:/Works/3D Engine Apps/Basilica Cruze/BCruze_UE4/Content/Textures/Window-FrameTX_NRM.uasset" 273
+"D:/Works/3D Engine Apps/Basilica Cruze/BCruze_UE4/Content/Textures/Window-Mod3x5.uasset" 274
+"D:/Works/3D Engine Apps/Basilica Cruze/BCruze_UE4/Content/Textures/Window-Mod3x5-tp.uasset" 275
+"D:/Works/3D Engine Apps/Basilica Cruze/BCruze_UE4/Content/Materials/Walls-WindowsTP.uasset" 276
+"D:/Works/3D Engine Apps/Basilica Cruze/BCruze_UE4/Content/Textures/Window-FrameTX.uasset" 277
+"D:/Works/3D Engine Apps/Basilica Cruze/BCruze_UE4/Content/Materials/WindowC-Frame.uasset" 278
+"D:/Works/3D Engine Apps/Basilica Cruze/BCruze_UE4/Content/Modules/Windows_Window2F.uasset" 279
+"D:/Works/3D Engine Apps/Basilica Cruze/BCruze_UE4/Content/BasilicaCruze.umap" 280
+"D:/Works/3D Engine Apps/Basilica Cruze/BCruze_UE4/Content/MainMenu_lvl_BuiltData.uasset" 281
+"D:/Works/3D Engine Apps/Basilica Cruze/BCruze_UE4/Content/MainMenu_lvl.umap" 282
